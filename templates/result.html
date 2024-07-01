@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Credit Card Worthiness Prediction</title>
+    <link rel="shortcut icon" href="{{ url_for('static',filename='images/favicon.png') }}" type="image/x-icon">
+    <link rel="stylesheet" href="../static/css/style_result.css">
+</head>
+
+<body>
+    <header class="gradient-header"></header>
+    <div class="container">
+        <h1>Prediction Result</h1>
+        <div class="result_block">
+            <p>The model predicts:</p>
+            <p class="main_result">{{ result|safe }}</p>
+        </div>
+    </div>
+    <footer class="gradient-header">
+        <p>&copy; 2024 Credit Card Worthiness Prediction App</p>
+    </footer>
+</body>
+
+</html>
