@@ -3,3 +3,4 @@ gunicorn
 jupyter
 pandas
 numpy
+joblib
