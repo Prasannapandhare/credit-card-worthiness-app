@@ -21,7 +21,39 @@ The Credit Card Worthiness Prediction App uses a machine learning model to asses
   - #### Source
     <a href="https://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data)" target="_blank">German Credit Data - UCI Repository</a>
 
-### 2. Tech Stack
+### 3. Folder Structure
+```
+credit-worthiness-app  
+│
+└─── datasets
+│   |   Index
+|   |   german.data
+|   |   german.data-numeric
+|   |   german.doc
+│   └── processed.csv
+└─── notebooks
+│   |   Project.ipynb
+│   └── app.ipynb
+└─── static
+│   └── css
+|   |      |   style_index.css
+|   |      └── style_result.css
+│   └── images
+|          |   dropdown.png
+|          └── favicon.png
+└─── templates
+│   |   index.html
+│   └── result.html
+└─── app.py
+└─── README.md
+└─── Procfile
+└─── random_forest_model.pkl
+└─── requirements.txt
+└─── runtime.txt
+
+```
+
+### 3. Tech Stack
   - **Backend**: Flask  
     ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
   - **Frontend**: HTML, CSS, JavaScript  
@@ -30,7 +62,7 @@ The Credit Card Worthiness Prediction App uses a machine learning model to asses
   - **Data Analysis and Model Building**: Jupyter Notebooks  
     ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 3. Installation
+### 4. Installation
   To run this project locally, follow these steps:
   1. **Clone the repository:**
       ```sh
@@ -50,12 +82,12 @@ The Credit Card Worthiness Prediction App uses a machine learning model to asses
       http://127.0.0.1:5000
       ```
 
-### 4. Usage
+### 5. Usage
   1. **Navigate to the homepage.**
   2. **Enter the required details to assess creditworthiness.**
   3. **Submit the form to get the prediction results.**
 
-### 5. Features
+### 6. Features
   - User-friendly interface to input financial and personal information
   - Real-time prediction of credit card worthiness
   - Data visualization and analysis using Jupyter notebooks
