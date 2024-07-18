@@ -94,8 +94,13 @@ credit-worthiness-app
   - Secure and efficient handling of user data
   - Interactive charts and graphs to help users understand their credit standing
 
+#### → Index (Home) Page
+![image](https://github.com/user-attachments/assets/3227f0a1-ddec-4bc4-8427-39ebf3c137a1)
+#### → Result Page
+![image](https://github.com/user-attachments/assets/f4516185-06b8-43e6-836a-24cf11d8a897)
+
+---    
 #### *Project Developer*
 - **Name**: Prasanna Pandhare  
 - **Email**: prasannapandhare20160@gmail.com  
 - **GitHub**: [Prasannapandhare](https://github.com/Prasannapandhare)
----    
