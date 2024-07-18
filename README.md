@@ -4,13 +4,13 @@ This project was developed as part of an internship at **Celebal Technologies - 
 
 ---
 
-## **Project Overview**
+## 📍 **Project Overview**
 This web application empowers users to predict their credit card worthiness by inputting financial and personal details. Built with a robust machine learning model trained on comprehensive datasets, the app ensures accurate and reliable predictions. The project uses Flask for the backend and HTML, CSS, and JavaScript for the frontend, incorporating Jupyter notebooks for data analysis and model building. 
 - Discover your credit worthiness with our sophisticated prediction tool designed to deliver precise results.
 
-### 1. Introduction
+### 🚀 Introduction
 The Credit Card Worthiness Prediction App uses a machine learning model to assess the creditworthiness of individuals. The model is trained on various financial and personal data points to provide an accurate prediction. Ideal for credit scoring and financial risk assessment.
-- ### German Credit Data
+- ### German Credit Data 📄
   - #### Overview
     The German Credit dataset, provided by Prof. Dr. Hans Hofmann (University of Hamburg), is used to classify individuals as good or bad credit risks.
   - #### Details
@@ -21,7 +21,7 @@ The Credit Card Worthiness Prediction App uses a machine learning model to asses
   - #### Source
     <a href="https://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data)" target="_blank">German Credit Data - UCI Repository</a>
 
-### 3. Folder Structure
+### 🗂️ Folder Structure
 ```
 credit-worthiness-app  
 │
@@ -53,7 +53,7 @@ credit-worthiness-app
 
 ```
 
-### 3. Tech Stack
+### 🔧  Tech Stack
   - **Backend**: Flask  
     ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
   - **Frontend**: HTML, CSS, JavaScript  
@@ -62,7 +62,7 @@ credit-worthiness-app
   - **Data Analysis and Model Building**: Jupyter Notebooks  
     ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 4. Installation
+### ⚙️ Installation
   To run this project locally, follow these steps:
   1. **Clone the repository:**
       ```sh
@@ -82,25 +82,27 @@ credit-worthiness-app
       http://127.0.0.1:5000
       ```
 
-### 5. Usage
+### 🤖 Usage
   1. **Navigate to the homepage.**
   2. **Enter the required details to assess creditworthiness.**
   3. **Submit the form to get the prediction results.**
 
-### 6. Features
+### 🧩 Features
   - User-friendly interface to input financial and personal information
   - Real-time prediction of credit card worthiness
   - Data visualization and analysis using Jupyter notebooks
   - Secure and efficient handling of user data
   - Interactive charts and graphs to help users understand their credit standing
 
-#### → Index (Home) Page
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]()
+#### ➤ Index (Home) Page
 ![image](https://github.com/user-attachments/assets/3227f0a1-ddec-4bc4-8427-39ebf3c137a1)
-#### → Result Page
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]()
+#### ➤ Result Page
 ![image](https://github.com/user-attachments/assets/f4516185-06b8-43e6-836a-24cf11d8a897)
 
 ---    
-#### *Project Developer*
+#### 🔰 *Project Developer* 🧑‍💻
 - **Name**: Prasanna Pandhare  
 - **Email**: prasannapandhare20160@gmail.com  
 - **GitHub**: [Prasannapandhare](https://github.com/Prasannapandhare)
