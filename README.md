@@ -1,6 +1,6 @@
 # **Credit Card Worthiness Prediction App**
 This project was developed as part of an internship at **Celebal Technologies - CSI'24**.  
-[Live Link](https://credit-worthiness-app.onrender.com/)
+<a href="https://credit-worthiness-app.onrender.com/" target="_blank">Live Link</a>
 
 ---
 
@@ -19,7 +19,7 @@ The Credit Card Worthiness Prediction App uses a machine learning model to asses
         - Original: 20 (7 numerical, 13 categorical)
         - Numerical: 24 (all numerical)
   - #### Source
-    [German Credit Data - UCI Repository](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data)
+    <a href="https://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data)" target="_blank">German Credit Data - UCI Repository</a>
 
 ### 2. Tech Stack
   - **Backend**: Flask  
