@@ -1,14 +1,12 @@
 # **Credit Card Worthiness Prediction App**
-This project is a web application designed to predict credit card worthiness using a machine learning model. The application is built using Flask for the backend and HTML, CSS, and JavaScript for the frontend. It also incorporates Jupyter notebooks for data analysis and model building.
-### **Internship Information**
-This project was developed as part of an internship at Celebal Technologies - CSI'24.  
+This project was developed as part of an internship at **Celebal Technologies - CSI'24**.  
 [Live Link](https://credit-worthiness-app.onrender.com/)
 
 ---
 
 ## **Project Overview**
-
-The application allows users to input various financial and personal details to predict their credit card worthiness. The model behind the prediction is trained using a dataset and various machine learning techniques to ensure accurate and reliable predictions.
+This web application empowers users to predict their credit card worthiness by inputting financial and personal details. Built with a robust machine learning model trained on comprehensive datasets, the app ensures accurate and reliable predictions. The project uses Flask for the backend and HTML, CSS, and JavaScript for the frontend, incorporating Jupyter notebooks for data analysis and model building. 
+- Discover your credit worthiness with our sophisticated prediction tool designed to deliver precise results.
 
 ### 1. Introduction
 The Credit Card Worthiness Prediction App uses a machine learning model to assess the creditworthiness of individuals. The model is trained on various financial and personal data points to provide an accurate prediction. Ideal for credit scoring and financial risk assessment.
@@ -23,7 +21,6 @@ The Credit Card Worthiness Prediction App uses a machine learning model to asses
   - #### Source
     [German Credit Data - UCI Repository](https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data)
 
-
 ### 2. Tech Stack
   - **Backend**: Flask  
     ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -35,7 +32,6 @@ The Credit Card Worthiness Prediction App uses a machine learning model to asses
 
 ### 3. Installation
   To run this project locally, follow these steps:
-
   1. **Clone the repository:**
       ```sh
       git clone https://github.com/yourusername/credit-card-worthiness-app.git
@@ -70,4 +66,4 @@ The Credit Card Worthiness Prediction App uses a machine learning model to asses
 - **Name**: Prasanna Pandhare  
 - **Email**: prasannapandhare20160@gmail.com  
 - **GitHub**: [Prasannapandhare](https://github.com/Prasannapandhare)
----
+---    
