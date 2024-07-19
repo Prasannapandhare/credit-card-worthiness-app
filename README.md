@@ -95,11 +95,64 @@ credit-worthiness-app
   - Interactive charts and graphs to help users understand their credit standing
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]()
-#### ➤ Index (Home) Page
+### ➤ Index (Home) Page
 ![image](https://github.com/user-attachments/assets/3227f0a1-ddec-4bc4-8427-39ebf3c137a1)
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]()
-#### ➤ Result Page
+### ➤ Result Pages
+#### 🧪 Credit Worthiness Prediction Demo
+For demonstration purposes, you can use the following inputs to predict credit worthiness. These inputs are taken directly from the top two rows of our dataset.
+##### Example Inputs
+###### Good Credit
+- Checking account status: A11
+- Duration: 6 months
+- Credit history: A34
+- Purpose: A43
+- Credit amount: 1169
+- Savings account/bonds: A65
+- Employment: A75
+- Installment rate: 4
+- Personal status and sex: A93
+- Other debtors / guarantors: A101
+- Present residence since: 4
+- Property: A121
+- Age: 67
+- Other installment plans: A143
+- Housing: A152
+- Number of existing credits: 2
+- Job: A173
+- Number of people liable: 1
+- Telephone: A192
+- Foreign worker: A201 <br><br>
 ![image](https://github.com/user-attachments/assets/f4516185-06b8-43e6-836a-24cf11d8a897)
+
+
+###### Bad Credit
+- Checking account status: A12
+- Duration: 48 months
+- Credit history: A32
+- Purpose: A43
+- Credit amount: 5951
+- Savings account/bonds: A61
+- Employment: A73
+- Installment rate: 2
+- Personal status and sex: A92
+- Other debtors / guarantors: A101
+- Present residence since: 4
+- Property: A121
+- Age: 22
+- Other installment plans: A143
+- Housing: A152
+- Number of existing credits: 1
+- Job: A173
+- Number of people liable: 1
+- Telephone: A191
+- Foreign worker: A201 <br><br>
+![image](https://github.com/user-attachments/assets/e5daf5c4-da39-4fac-b190-6acee9fc6d63)
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]()
+
+> [!NOTE]
+> <sub>
+These inputs illustrate different scenarios of credit worthiness. Use these examples to test the prediction model and see how it evaluates the credit status based on the given data.</sub>
 
 ---    
 #### 🔰 *Project Developer* 🧑‍💻
