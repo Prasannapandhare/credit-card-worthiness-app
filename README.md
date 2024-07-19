@@ -66,7 +66,7 @@ credit-worthiness-app
   To run this project locally, follow these steps:
   1. **Clone the repository:**
       ```sh
-      git clone https://github.com/yourusername/credit-card-worthiness-app.git
+      git clone https://github.com/Prasannapandhare/credit-worthiness-app.git
       cd credit-card-worthiness-app
       ```
   2. **Install the dependencies:**
