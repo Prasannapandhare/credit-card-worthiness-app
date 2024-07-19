@@ -100,7 +100,9 @@ credit-worthiness-app
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]()
 ### ➤ Result Pages
 #### 🧪 Credit Worthiness Prediction Demo
-For demonstration purposes, you can use the following inputs to predict credit worthiness. These inputs are taken directly from the top two rows of our dataset.
+For demonstration purposes, you can use the following inputs to predict credit worthiness.These inputs illustrate different scenarios of credit worthiness. Use these examples to test the prediction model and see how it evaluates the credit status based on the given data. 
+> [!NOTE]
+> <sub>These inputs are taken directly from the top two rows of our dataset.</sub>
 ##### Example Inputs
 ###### Good Credit
 - Checking account status: A11
@@ -149,10 +151,6 @@ For demonstration purposes, you can use the following inputs to predict credit w
 - Foreign worker: A201 <br><br>
 ![image](https://github.com/user-attachments/assets/e5daf5c4-da39-4fac-b190-6acee9fc6d63)
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]()
-
-> [!NOTE]
-> <sub>
-These inputs illustrate different scenarios of credit worthiness. Use these examples to test the prediction model and see how it evaluates the credit status based on the given data.</sub>
 
 ---    
 #### 🔰 *Project Developer* 🧑‍💻
